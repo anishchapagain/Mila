@@ -13,7 +13,12 @@ $custom_val = get_post_custom();
                     the_content();
                 endwhile;
                 wp_reset_postdata();
-                ?>*/
+                ?>
+                <?php //Functions
+
+register_nav_menu( 'primary', 'Primary Menu' );
+
+?>*/
 ?>
 
 
