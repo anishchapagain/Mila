@@ -1,0 +1,53 @@
+#teamParallax {
+	background: url(../images/paralaximg1.jpg) 50% 0 fixed;
+	height: 400px !important;
+	margin: 0 auto;
+	width: 100%;
+	position: relative;
+	padding: 100px 0;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#thanks_bg{
+	background:url(../images/image6.jpg)  100% 55% no-repeat;
+	height: 400px !important;
+	width: 100% !important;
+	background-size:cover;
+	}
+
+
+#contactParallax {
+	background: url(../images/paralaximg2.jpg) bottom center;
+	margin: 0 auto;
+	width: 100%;
+	height:500px;
+
+	background-size: cover;
+
+}
+#address__parallax {
+	background: url(../images/paralaximg3.jpg) 50% 0 fixed;
+	width: 100%;
+	height: 100%;
+	min-height: 400px;
+	margin: 0px auto;
+	position: realtive;
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#teamParallax h1 {
+	height: 458px;
+	position: absolute;
+	top: 100px;
+	width: 100%;
+	font-size: 80px;
+	font-weight: 100;
+	letter-spacing: -4px;
+	margin: 8px auto;
+	color: #fff;
+}
+#contactParallax h1 {
+	color: #fff !important;
+}
